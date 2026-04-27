@@ -1,0 +1,7 @@
+Masukkan angka: -5
+harus positif!!!
+Masukkan angka: 5
+angka yang dimasukkan adalah: 5.0
+
+
+** Process exited - Return Code: 0 **
